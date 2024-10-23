@@ -3,6 +3,9 @@
   font-family: 'Chenyuluoyan';
   src: url(../fonts/ChenYuluoyan-Thin-Monospaced.ttf) 
   format('truetype');
+  src: url(../fonts/Cfonts/ChenYuluoyan-Thin.ttf) 
+  format('truetype');
+  
 }
 
 /*
