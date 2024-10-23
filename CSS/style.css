@@ -34,8 +34,8 @@
 }
 html,body{
   /* font-family: '微軟正黑體',arial; */
-  /* font-family: 'Chenyuluoyan'; */
-  font-family: 'Edu VIC WA NT Beginner','Noto Serif HK';
+  font-family: 'Chenyuluoyan';
+/*   font-family: 'Edu VIC WA NT Beginner','Noto Serif HK'; */
 }
 h1,h2,h3,h4,h5,h6,p{
   margin: 0;
